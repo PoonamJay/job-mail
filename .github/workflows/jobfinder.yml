@@ -1,0 +1,91 @@
+name: Daily Job Finder
+
+on:
+  schedule:
+    # 11:00 UTC = 7:00 AM EDT (UTC-4 in summer).
+    # Change to "0 12 * * *" after the clocks fall back to EST (UTC-5).
+    - cron: "0 11 * * *"
+  workflow_dispatch: # Allows manual runs from the Actions tab.
+
+permissions:
+  contents: write # Required to commit digest.md and seen_jobs.json.
+
+jobs:
+  find-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ──────────────────────────────────────────────────────────
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # ── 2. Python environment ────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Run the agent ─────────────────────────────────────────────────────
+      - name: Run job finder
+        id: finder
+        env:
+          # Adzuna is optional — the script skips it gracefully if these are absent.
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python job_finder.py
+
+      # ── 4. Commit updated files ───────────────────────────────────────────────
+      - name: Commit digest and seen list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add digest.md seen_jobs.json
+          if git diff --staged --quiet; then
+            echo "Nothing changed — no commit needed."
+          else
+            git commit -m "chore: job digest $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      # ── 5. Email (skipped if secrets are not set) ─────────────────────────────
+      - name: Check email credentials
+        id: check_email
+        run: |
+          if [ -n "$MAIL_USERNAME" ] && [ -n "$MAIL_PASSWORD" ] && [ -n "$MAIL_TO" ]; then
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "Email secrets not configured — skipping email step."
+          fi
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+
+      - name: Read HTML email body
+        id: email_body
+        if: steps.check_email.outputs.configured == 'true'
+        run: |
+          {
+            echo 'html<<EMAILEOF'
+            cat email_body.html
+            echo 'EMAILEOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Send email digest
+        if: steps.check_email.outputs.configured == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "Job Digest — ${{ steps.finder.outputs.new_count }} new role(s) — ${{ steps.finder.outputs.today }}"
+          to: ${{ secrets.MAIL_TO }}
+          from: "Job Finder <${{ secrets.MAIL_USERNAME }}>"
+          html_body: ${{ steps.email_body.outputs.html }}

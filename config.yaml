@@ -1,0 +1,57 @@
+# ── Job Finder Configuration ────────────────────────────────────────────────
+# Edit this file to tune keywords, locations, and filters.
+
+# Title keywords — a posting is included only if its title contains at least one.
+target_keywords:
+  - "data analyst"
+  - "business analyst"
+  - "marketing analyst"
+  - "research analyst"
+  - "data scientist"
+  - "analytics"
+  - "BI analyst"
+  - "reporting analyst"
+
+# Target locations — must overlap the job's listed location to be included.
+# "Remote" matches any remote/flexible/WFH posting.
+target_locations:
+  - "New York, NY"
+  - "Jersey City, NJ"
+  - "Newark, NJ"
+  - "New Brunswick, NJ"
+  - "Hoboken, NJ"
+  - "White Plains, NY"
+  - "New Rochelle, NY"
+  - "Stamford, CT"
+  - "Greenwich, CT"
+  - "Remote"
+
+# Maximum results fetched per source per run (before filtering).
+max_results_per_source: 50
+
+# Hard-bar phrases — any posting with one of these in its title OR description
+# is silently dropped. Matched case-insensitively.
+hard_bar_phrases:
+  - "U.S. citizen"
+  - "US citizen"
+  - "citizenship required"
+  - "must be a citizen"
+  - "green card holders only"
+  - "GC only"
+  - "security clearance"
+  - "active clearance"
+  - "TS/SCI"
+  - "public trust"
+  - "ITAR"
+
+# No-sponsorship phrases — postings matching these are KEPT but flagged ⚠️.
+# (You can accept such roles on your current work authorization.)
+no_sponsorship_phrases:
+  - "no sponsorship"
+  - "unable to sponsor"
+  - "will not sponsor"
+  - "sponsorship not available"
+  - "cannot sponsor"
+
+# Send an email even when no new postings are found.
+send_email_on_empty: true
