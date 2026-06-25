@@ -66,16 +66,6 @@ jobs:
           MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
 
-      - name: Read HTML email body
-        id: email_body
-        if: steps.check_email.outputs.configured == 'true'
-        run: |
-          {
-            echo 'html<<EMAILEOF'
-            cat email_body.html
-            echo 'EMAILEOF'
-          } >> "$GITHUB_OUTPUT"
-
       - name: Send email digest
         if: steps.check_email.outputs.configured == 'true'
         uses: dawidd6/action-send-mail@v3
@@ -88,4 +78,6 @@ jobs:
           subject: "Job Digest — ${{ steps.finder.outputs.new_count }} new role(s) — ${{ steps.finder.outputs.today }}"
           to: ${{ secrets.MAIL_TO }}
           from: "Job Finder <${{ secrets.MAIL_USERNAME }}>"
-          html_body: ${{ steps.email_body.outputs.html }}
+          # dawidd6/action-send-mail@v3 reads the file directly when the value
+          # starts with "file://", avoiding any heredoc delimiter conflicts.
+          html_body: file://email_body.html
