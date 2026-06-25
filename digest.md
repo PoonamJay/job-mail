@@ -1,4 +1,4 @@
-# Job Digest — June 24, 2026
+# Job Digest — June 25, 2026
 
 **0 new posting(s) found.**
 
