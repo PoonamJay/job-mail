@@ -1,23 +1,18 @@
-# Job Digest — June 30, 2026
+# Job Digest — July 01, 2026
 
-**5 new posting(s) found.**
+**4 new posting(s) found.**
 
 ## New York, NY
 
-- **[Data Analyst](https://www.adzuna.com/land/ad/5775952635?se=ytbMIoV08RGL3IZid33Ipg&utm_medium=api&utm_source=7390d105&v=7B1240F33103FB17E520C4D8B67DC5FF63086A88)**  
-  TBG | The Bachrach Group — New York, New York City — _Adzuna_
-- **[Data Scientist](https://www.adzuna.com/land/ad/5781757962?se=_Ao5I4V08RGOLtegXu1E-A&utm_medium=api&utm_source=7390d105&v=E2B40E113F1386C29FF55B56925D1B7F9F019B64)**  
-  Forhyre — New York, New York City — _Adzuna_
-
-## Jersey City, NJ
-
-- **[Business Data Analyst](https://www.adzuna.com/land/ad/5769918290?se=ytbMIoV08RGL3IZid33Ipg&utm_medium=api&utm_source=7390d105&v=B9FF556AB82ABE07E610697FC33B43F5DE9E4147)**  
-  EXL — Hudson County, Jersey City — _Adzuna_
-- **[Business Analyst, Pricing and Underwriting](https://www.adzuna.com/land/ad/5528375557?se=kgYCI4V08RGb1rabhiq7Uw&utm_medium=api&utm_source=7390d105&v=B94EBAE6EBFE318994B1D1B66804A75247027AFD)**  
-  Maxor National Pharmacy Services — Hudson County, Jersey City — _Adzuna_
+- **[Global AMLS Data Analyst](https://www.adzuna.com/land/ad/5783510233?se=dCsU7FF18RGJrp8MYb30BQ&utm_medium=api&utm_source=7390d105&v=667D123A048454934F40EFB833D0BE3709AAC45F)**  
+  United Nations Federal Credit Union — New York, New York City — _Adzuna_
+- **[Sr. Business Analyst](https://www.adzuna.com/land/ad/5783520437?se=ZthC7FF18RG8Yc5LiyUHUw&utm_medium=api&utm_source=7390d105&v=7467EEAE897F7213B94E8CBBFCD5E4437B11E2C9)**  
+  Eclaro — New York, New York City — _Adzuna_
+- **[Jr. Business Analyst](https://www.adzuna.com/land/ad/5783505536?se=ZthC7FF18RG8Yc5LiyUHUw&utm_medium=api&utm_source=7390d105&v=EDD353B19D7F8017F76615400B83114B05A55BAC)**  
+  Eclaro — New York City, Brooklyn — _Adzuna_
 
 ## Newark, NJ
 
-- **[Program Reporting & Analytics Analyst](https://www.adzuna.com/land/ad/5772664888?se=cFRxI4V08RGan7yg5ej42A&utm_medium=api&utm_source=7390d105&v=A3E6A38540F732EA970E9DA3AC445C4E363135DB)**  
-  MARYLAND ENERGY ADVISORS — Essex County, Newark — _Adzuna_
+- **[Analytics Architect](https://www.adzuna.com/land/ad/5749978943?se=kiqm7FF18RGO38ZVQ7SzJQ&utm_medium=api&utm_source=7390d105&v=B2326FF0FB35F84DDB141FD9B3226100216C33FE)**  
+  Cengage Group — Essex County, Newark — _Adzuna_
 
