@@ -1,33 +1,60 @@
-# Job Digest — August 13, 2026
+# Job Digest — August 14, 2026
 
-**10 new posting(s) found.**
+**25 new posting(s) found.**
 
 ## New York, NY
 
-- **[Associate Director - Data Analyst](https://www.adzuna.com/land/ad/5806988210?se=jhW-fg2X8RGmQ-I_OROTUA&utm_medium=api&utm_source=7390d105&v=7C850FB6FED30D0F74B9AD40F43C37CB682BE480)**  
-  Moody's Corporation — New York, New York City — _Adzuna_
-- **[Business Analyst](https://www.adzuna.com/land/ad/5832242815?se=Jnsafw2X8RGmQ-I_OROTUA&utm_medium=api&utm_source=7390d105&v=89D5FD74BD39A15327E7DD0221A18B8D2C0786F8)**  
-  Hired by Matrix — New York, New York City — _Adzuna_
-- **[Data Scientist, Analytics and Modelling](https://www.adzuna.com/land/ad/5803589286?se=zOdwfw2X8RG1KO25_Z8IuQ&utm_medium=api&utm_source=7390d105&v=2E5A955683DFF3149606F530E4A9D5AA8C655BA2)**  
+- **[Data Analyst](https://www.adzuna.com/land/ad/5826546935?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=21E53F55F12D77AFB244E6C084E8D44BC4B0B08B)**  
+  ays s.r.o. — New York, New York City — _Adzuna_
+- **[Data Analyst](https://www.adzuna.com/land/ad/5826546904?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=44C1A32C3B57539FCF400470DA615322DBA856AD)**  
+  SourcePro Search, LLC — New York, New York City — _Adzuna_
+- **[Data Analyst](https://www.adzuna.com/land/ad/5841125305?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=2F456F1F8F42A7DCCC12F412BE7FCE2584D9992E)**  
+  Children's Aid Job Listing — New York, New York City — _Adzuna_
+- **[Data Analyst](https://www.adzuna.com/land/ad/5826550095?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=00440AED4BA0D41BDC24A442B5D3CAD3E77B9D41)**  
+  Remoten's — New York, New York City — _Adzuna_
+- **[Sr. Data Analyst](https://www.adzuna.com/land/ad/5826550081?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=7A162C717AD1AF9E4BC972FA55E94BC7BA3CA510)**  
+  Remote Career — New York, New York City — _Adzuna_
+- **[Senior Data Analyst](https://www.adzuna.com/land/ad/5826544257?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=7DB0376957C9273944F12D925E40E01A48EB06AA)**  
+  VillageCare — New York, New York City — _Adzuna_
+- **[Data Analyst (Remote)](https://www.adzuna.com/land/ad/5826546447?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=C153471A530D86F7A4FF61573D7253C8C8941FAB)**  
+  Workoo Technologies — New York, New York City — _Adzuna_
+- **[Senior Data Analyst](https://www.adzuna.com/land/ad/5826547834?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=8932F62A8D190BC252428C5D6D4046D47A771208)**  
+  Gigs — New York, New York City — _Adzuna_
+- **[Senior Data Analyst](https://www.adzuna.com/land/ad/5826545580?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=A69CE39C0954A0AE8CFB051263161012CFD65E10)**  
+  Tremendous — New York, New York City — _Adzuna_
+- **[Senior Data Analyst](https://www.adzuna.com/land/ad/5826552299?se=QkH7QtaX8RGviLUZHA0ilA&utm_medium=api&utm_source=7390d105&v=AF48E7A9B0BB6496DAC2C4F5D49BE12544F35AFB)**  
+  Extend Enterprises, Inc — New York, New York City — _Adzuna_
+- **[Business Analyst](https://www.adzuna.com/land/ad/5826547308?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=5CF1867042A5753E3B5F93DC2836F4D1CB85E7AF)**  
+  MONTICELLOAM, LLC — New York, New York City — _Adzuna_
+- **[Business Analyst](https://www.adzuna.com/land/ad/5826542968?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=5089B3879A6D4FDE535384D01A02643CD5E6827B)**  
+  EvolutionIQ — New York, New York City — _Adzuna_
+- **[Business Analyst](https://www.adzuna.com/land/ad/5826542966?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=0C61C3832A6076EA16A9096307F1C8D9D14C76A3)**  
+  E Logic Corp — New York, New York City — _Adzuna_
+- **[Business Analyst](https://www.adzuna.com/land/ad/5826550942?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=A122DDC0DD92790C0705F7537CF3DD22E17982D9)**  
+  Genting New York LLC — New York, New York City — _Adzuna_
+- **[Business Analyst](https://www.adzuna.com/land/ad/5826552803?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=1866D385EE7E969710D70971549346FC0EB2F6AC)**  
+  CRSG Construction — New York, New York City — _Adzuna_
+- **[Business Analyst](https://www.adzuna.com/land/ad/5826551395?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=3F94D48C02FC28EF07CD42B65CC1A9495ED34DB5)**  
+  S C Limited — New York, New York City — _Adzuna_
+- **[Senior Business Analyst](https://www.adzuna.com/land/ad/5826542951?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=27232F7306D05887C54FC6957503085266519801)**  
+  Global Channel Management, Inc. — New York, New York City — _Adzuna_
+- **[Sr Business Analyst](https://www.adzuna.com/land/ad/5826552534?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=03F758BDC1615D5BE918E6B3A1F2DCEC3FDE8183)**  
+  Strategic Mindz LLC — New York, New York City — _Adzuna_
+- **[Data Scientist, Analytics and Modelling](https://www.adzuna.com/land/ad/5803589286?se=nimEQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=2E5A955683DFF3149606F530E4A9D5AA8C655BA2)**  
   Barclays — New York, New York City — _Adzuna_
 
 ## Jersey City, NJ
 
-- **[Business Analyst](https://www.adzuna.com/land/ad/5811125414?se=Jnsafw2X8RGmQ-I_OROTUA&utm_medium=api&utm_source=7390d105&v=96EF7AD96C697BE9B212521BC6D7E80CDDEABBD3)**  
+- **[Business Analyst](https://www.adzuna.com/land/ad/5826545610?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=1A2F3A5BE571386AF4463BC2BFB0F6BE99597E28)**  
+  Jose Merciline — Hudson County, Jersey City — _Adzuna_
+- **[Business Analyst](https://www.adzuna.com/land/ad/5811125414?se=iI5EQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=96EF7AD96C697BE9B212521BC6D7E80CDDEABBD3)**  
   Verisk — Hudson County, Jersey City — _Adzuna_
-- **[Senior Associate, Data Scientist - PXT Analytics](https://www.adzuna.com/land/ad/5839207277?se=zOdwfw2X8RG1KO25_Z8IuQ&utm_medium=api&utm_source=7390d105&v=BCC89C718BD8520DF80849D44BDD6501D38C5B20)**  
-  JPMorgan Chase & Co. — Hudson County, Jersey City — _Adzuna_
-- **[Lead Data Scientist - Finance Technology](https://www.adzuna.com/land/ad/5838151773?se=zOdwfw2X8RG1KO25_Z8IuQ&utm_medium=api&utm_source=7390d105&v=8DB1AC095733A12B1BDAF67EA74BDB6821600A01)**  
+- **[Lead Data Scientist - Finance Technology](https://www.adzuna.com/land/ad/5838151773?se=nimEQ9aX8RGPiaCkE4pxfg&utm_medium=api&utm_source=7390d105&v=8DB1AC095733A12B1BDAF67EA74BDB6821600A01)**  
   J.P. Morgan — Hudson County, Jersey City — _Adzuna_
-- **[Corporate P&A Analytics Solution VP](https://www.adzuna.com/land/ad/5838702020?se=8qvbfw2X8RGEb7TtygE8KQ&utm_medium=api&utm_source=7390d105&v=F216539CD4E83C433B2610DD87E3E225236241A9)**  
-  JPMorgan Chase & Co. — Hudson County, Jersey City — _Adzuna_
-
-## Hoboken, NJ
-
-- **[Business Analyst](https://www.adzuna.com/land/ad/5838711883?se=Jnsafw2X8RGmQ-I_OROTUA&utm_medium=api&utm_source=7390d105&v=961F5A8585F9F15D8E48CBB0704E291C453A061F)**  
-  Triunity Software — Hudson County, Hoboken — _Adzuna_
-- **[Required Business Analyst](https://www.adzuna.com/land/ad/5838707581?se=Jnsafw2X8RGmQ-I_OROTUA&utm_medium=api&utm_source=7390d105&v=5D3F735AA93D24D6AFFE02976690E7B08E1FA618)**  
-  Triunity Software — Hudson County, Hoboken — _Adzuna_
-- **[Financial Services - Tech Consulting - Guidewire - Business Analyst - Manager](https://www.adzuna.com/land/ad/5838359102?se=Jnsafw2X8RGmQ-I_OROTUA&utm_medium=api&utm_source=7390d105&v=164DFFABE8BC3D0C567C782A12EBE898BDDE6A0D)**  
-  EY — Hudson County, Hoboken — _Adzuna_
+- **[Corporate P&A Analytics Solution VP](https://www.adzuna.com/land/ad/5838151749?se=cIHIQ9aX8RGPX99z7Mva1g&utm_medium=api&utm_source=7390d105&v=F38ACE7E37CFF543CEAEFBA929C50182671037E2)**  
+  J.P. Morgan — Hudson County, Jersey City — _Adzuna_
+- **[Analytics Solutions [Multiple Positions Available]](https://www.adzuna.com/land/ad/5829650000?se=cIHIQ9aX8RGPX99z7Mva1g&utm_medium=api&utm_source=7390d105&v=D103AD554BA06DB5AFA9B25993385FD333548BDB)**  
+  J.P. Morgan — Hudson County, Jersey City — _Adzuna_
+- **[Manager of Software Engineering - Data Analytics](https://www.adzuna.com/land/ad/5816441134?se=cIHIQ9aX8RGPX99z7Mva1g&utm_medium=api&utm_source=7390d105&v=741DE3FFB136A141BD9BB7296226610B352456FA)**  
+  J.P. Morgan — Hudson County, Jersey City — _Adzuna_
 
